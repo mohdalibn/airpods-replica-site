@@ -218,6 +218,24 @@ th {
     padding: 0
 }
 
+/*========== MY ADDED CODE FOR CUSTOM SCROLL BAR ==========*/
+::-webkit-scrollbar {
+    /* width: 0; */
+    width: .60rem;
+    background-color: hsl(0, 0%, 3%);
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: hsl(250, 8%, 65%);
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: hsl(250, 8%, 80%);
+}
+
+
 /* ==========================================================================
    Start of base Webflow CSS - If you're looking for some ultra-clean CSS, skip the boilerplate and see the unminified code below.
    ========================================================================== */
