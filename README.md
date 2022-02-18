@@ -4,7 +4,7 @@
 
 # ![project-description](https://user-images.githubusercontent.com/95453430/154774221-cf69c20b-4bbe-44ed-a70b-445f3b444fae.svg)
 
-<p align="center"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, rerum sed dolorum tempore temporibus a excepturi reprehenderit nesciunt repellat accusamus molestias. Necessitatibus aliquid unde in illo doloremque dolore temporibus eaque neque commodi velit. Deserunt perferendis odit consectetur eum facilis voluptates laudantium adipisci nam aspernatur repellat, quaerat mollitia esse qui! Neque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, rerum sed dolorum tempore temporibus a excepturi reprehenderit nesciunt repellat accusamus molestias. Necessitatibus aliquid unde in illo doloremque dolore temporibus eaque neque commodi velit. </p>
+<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, rerum sed dolorum tempore temporibus a excepturi reprehenderit nesciunt repellat accusamus molestias. Necessitatibus aliquid unde in illo doloremque dolore temporibus eaque neque commodi velit. Deserunt perferendis odit consectetur eum facilis voluptates laudantium adipisci nam aspernatur repellat, quaerat mollitia esse qui! Neque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, rerum sed dolorum tempore temporibus a excepturi reprehenderit nesciunt repellat accusamus molestias. Necessitatibus aliquid unde in illo doloremque dolore temporibus eaque neque commodi velit. </p>
 
 # ![technologies-used](https://user-images.githubusercontent.com/95453430/154773925-71d09745-6ec5-433f-b3e6-3489bfb44d59.svg)
 
