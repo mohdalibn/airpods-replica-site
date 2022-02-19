@@ -10,8 +10,6 @@
 <!-- Description Text -->
 <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, rerum sed dolorum tempore temporibus a excepturi reprehenderit nesciunt repellat accusamus molestias. Necessitatibus aliquid unde in illo doloremque dolore temporibus eaque neque commodi velit. Deserunt perferendis odit consectetur eum facilis voluptates laudantium adipisci nam aspernatur repellat, quaerat mollitia esse qui! Neque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, rerum sed dolorum tempore temporibus a excepturi reprehenderit nesciunt repellat accusamus molestias. Necessitatibus aliquid unde in illo doloremque dolore temporibus eaque neque commodi velit. </p>
 
-<br>
-
 <!-- Project Teck Stack  -->
 # ![technologies-used](https://user-images.githubusercontent.com/95453430/154773925-71d09745-6ec5-433f-b3e6-3489bfb44d59.svg)
 
@@ -21,9 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![WebFlow](https://img.shields.io/badge/Webflow-%234353FF.svg?style=for-the-badge&logo=Webflow&logoColor=white)
-
-<br>
-<br>
 
 <!-- Project Use Heading  -->
 # ![use-project](https://user-images.githubusercontent.com/95453430/154782035-5061a6e3-c6c5-423d-940c-e59a52012f9a.svg)
