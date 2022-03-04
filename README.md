@@ -24,6 +24,7 @@
 # ![use-project](https://user-images.githubusercontent.com/95453430/154782035-5061a6e3-c6c5-423d-940c-e59a52012f9a.svg)
 
 <!-- Steps -->
--  Click on the green "Code" at the top of this page and download the zip or through any of the other ways.
--  Extract the contents of the zip onto a folder accesable to you.
--  Click on the index.html file to run the website.
+-  Click on the green Code at the top of this page and download the repository zip file.
+-  Extract the contents of the zip onto a folder accesable to you on your local machine.
+-  Open the folder, and click on the index.html file to run the project. (Google Chrome Recommended)
+-  Enjoy using the project!
