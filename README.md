@@ -10,7 +10,7 @@
 <!-- Description Text -->
 **Important Note: I am not affiliated with Apple and this demo is purely for the purpose of a personal project.**
 
-I used figma to design the display mockups images of the website.
+This is **Front-End Project** featuring the replica of the **Apple Airpods Pro Website**. This project was primarily designed in **Webflow** with other changes made using **Html, CSS, & JavaScript**. I used figma to design the display mockups images of the website.
 
 <!-- Project Teck Stack  -->
 # ![technologies-used](https://user-images.githubusercontent.com/95453430/154773925-71d09745-6ec5-433f-b3e6-3489bfb44d59.svg)
